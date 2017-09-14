@@ -10,10 +10,8 @@ single_word.py -- visualising and extracting properties of single word distribut
 
 classification.py -- contains basic functions for training and testing a classifier with 5-fold cross-validation 
 
-topic.py -- cleans up text from unnencessary bigrams with minimal information, formulates dictionary and coprus, extract topic distributions
-for each document
+topic.py -- cleans up text from unnecessary bigrams with minimal information, formulates dictionary and corpus, extracts topic distributions for each document
 
-recipe.py -- contains the full pipeline for the project documented in report.pdf. running through the whole script should produce identical
-results with the reported ones.
+recipe.py -- contains the full pipeline for the project documented in report.pdf. running through the whole script should produce identical results with the reported ones.
 
 AM/2017
