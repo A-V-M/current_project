@@ -1,4 +1,4 @@
-Classifying hotel reviews using topic models
+Detecting deceptive hotel reviews using topic models
 ---
 
 The following files are necessary to run through the whole pipeline
